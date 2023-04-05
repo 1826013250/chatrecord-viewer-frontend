@@ -1,4 +1,4 @@
-# Chat Record Viewer
+# Chat Record Viewer - Forked to deploy
 
 聊天记录查看器
 
